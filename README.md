@@ -98,6 +98,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | Database | ✅ Accepted |<!-- id:find-followers-count -->
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | Easy | Database | ✅ Accepted |<!-- id:daily-leads-and-partners -->
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | Easy | Database | ✅ Accepted |<!-- id:employees-with-missing-information -->
+| 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | Easy | Database | ✅ Accepted |<!-- id:the-latest-login-in-2020 -->
+
 
 
 
