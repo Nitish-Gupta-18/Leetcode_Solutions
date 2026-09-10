@@ -175,6 +175,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | ✅ Accepted |<!-- id:serialize-and-deserialize-binary-tree -->
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:rotate-list -->
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | Linked List | ✅ Accepted |<!-- id:reverse-linked-list-ii -->
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Linked List, Two Pointers, Stack, Recursion | ✅ Accepted |<!-- id:reorder-list -->
+
 
 
 
