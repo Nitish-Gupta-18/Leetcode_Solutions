@@ -164,6 +164,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array, Math, Two Pointers | ✅ Accepted |<!-- id:rotate-array -->
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Medium | Array, Math, Divide and Conquer | ✅ Accepted |<!-- id:beautiful-array -->
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | Array, Greedy | ✅ Accepted |<!-- id:patching-array -->
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Array, Greedy | ✅ Accepted |<!-- id:gas-station -->
+
 
 
 
