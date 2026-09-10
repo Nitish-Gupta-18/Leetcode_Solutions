@@ -84,6 +84,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | Database | ✅ Accepted |<!-- id:list-the-products-ordered-in-a-period -->
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | ✅ Accepted |<!-- id:replace-employee-id-with-the-unique-identifier -->
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | Database | ✅ Accepted |<!-- id:top-travellers -->
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | Database | ✅ Accepted |<!-- id:group-sold-products-by-the-date -->
+
 
 
 
