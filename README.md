@@ -66,6 +66,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | Database | ✅ Accepted |<!-- id:customer-placing-the-largest-number-of-orders -->
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | ✅ Accepted |<!-- id:big-countries -->
 | 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy | Database | ✅ Accepted |<!-- id:classes-with-at-least-5-students -->
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | Database | ✅ Accepted |<!-- id:sales-person -->
+
 
 
 
