@@ -19,6 +19,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array, Math | ✅ Accepted |<!-- id:plus-one -->
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-array -->
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Hash Table, Math, String | ✅ Accepted |<!-- id:roman-to-integer -->
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | ✅ Accepted |<!-- id:majority-element -->
+
 
 
 
