@@ -179,6 +179,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:find-the-highest-altitude -->
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:odd-even-linked-list -->
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:delete-the-middle-node-of-a-linked-list -->
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | ✅ Accepted |<!-- id:next-greater-element-ii -->
+
 
 
 
