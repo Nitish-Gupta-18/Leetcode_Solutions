@@ -40,6 +40,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | Array, Math | ✅ Accepted |<!-- id:find-if-digit-game-can-be-won -->
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:can-place-flowers -->
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | Math, String, Simulation | ✅ Accepted |<!-- id:fizz-buzz -->
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | Easy | Math | ✅ Accepted |<!-- id:categorize-box-according-to-criteria -->
+
 
 
 
