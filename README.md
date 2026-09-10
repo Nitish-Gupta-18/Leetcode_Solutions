@@ -171,6 +171,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix, Heuristic Search, Bidirectional Search, A* Search | ✅ Accepted |<!-- id:sliding-puzzle -->
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:invert-binary-tree -->
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:binary-tree-level-order-traversal -->
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor | ✅ Accepted |<!-- id:lowest-common-ancestor-of-a-binary-tree -->
+
 
 
 
