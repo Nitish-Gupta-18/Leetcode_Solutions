@@ -103,6 +103,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | Database | ✅ Accepted |<!-- id:rearrange-products-table -->
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:primary-department-for-each-employee -->
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:second-highest-salary -->
+
 
 
 
