@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int longestValidParentheses(string s) {
+        stack<int> st;
+        st.push(-1);  // Base index for valid substring
+        int maxLen = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] == '(') {
+                st.push(i);  // Push index of '('
+            } else {
+                st.pop();  // Pop for ')'
+                if (st.empty()) {
+                    st.push(i);  // Push current index as base for next valid substring
+                } else {
+                    maxLen = max(maxLen, i - st.top());  // Calculate max length
+                }
+            }
+        }
+        return maxLen;
+    }
+};
