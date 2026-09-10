@@ -161,6 +161,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | Array, Queue, Simulation | ✅ Accepted |<!-- id:time-needed-to-buy-tickets -->
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | Medium | Array, Hash Table, Linked List | ✅ Accepted |<!-- id:linked-list-components -->
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort | ✅ Accepted |<!-- id:merge-k-sorted-lists -->
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array, Math, Two Pointers | ✅ Accepted |<!-- id:rotate-array -->
+
 
 
 
