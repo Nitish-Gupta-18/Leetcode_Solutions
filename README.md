@@ -34,6 +34,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:arranging-coins -->
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | Math, Brainteaser, Minimax, Game Theory, Nim Game, Impartial Game | ✅ Accepted |<!-- id:nim-game -->
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | Math, Bit Manipulation, Recursion | ✅ Accepted |<!-- id:power-of-four -->
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:island-perimeter -->
+
 
 
 
