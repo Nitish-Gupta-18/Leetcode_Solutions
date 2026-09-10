@@ -86,6 +86,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | Database | ✅ Accepted |<!-- id:top-travellers -->
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | Database | ✅ Accepted |<!-- id:group-sold-products-by-the-date -->
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | ✅ Accepted |<!-- id:patients-with-a-condition -->
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | Database | ✅ Accepted |<!-- id:find-users-with-valid-e-mails -->
+
 
 
 
