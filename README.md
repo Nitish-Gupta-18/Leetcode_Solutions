@@ -44,6 +44,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array, Stack, Simulation | ✅ Accepted |<!-- id:baseball-game -->
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | Array, Binary Search, Sorting | ✅ Accepted |<!-- id:special-array-with-x-elements-greater-than-or-equal-x -->
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy | Array, Hash Table, Counting | ✅ Accepted |<!-- id:count-number-of-pairs-with-absolute-difference-k -->
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | ✅ Accepted |<!-- id:climbing-stairs -->
+
 
 
 
