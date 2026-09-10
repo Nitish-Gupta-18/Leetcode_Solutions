@@ -32,6 +32,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Array, Matrix | ✅ Accepted |<!-- id:richest-customer-wealth -->
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Easy | Array | ✅ Accepted |<!-- id:number-of-students-doing-homework-at-a-given-time -->
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:arranging-coins -->
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Easy | Math, Brainteaser, Minimax, Game Theory, Nim Game, Impartial Game | ✅ Accepted |<!-- id:nim-game -->
+
 
 
 
