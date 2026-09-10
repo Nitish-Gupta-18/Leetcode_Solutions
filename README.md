@@ -129,6 +129,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | Database | ✅ Accepted |<!-- id:trips-and-users -->
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Database | ✅ Accepted |<!-- id:department-top-three-salaries -->
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | Database | ✅ Accepted |<!-- id:confirmation-rate -->
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | Medium | Database | ✅ Accepted |<!-- id:count-salary-categories -->
+
 
 
 
