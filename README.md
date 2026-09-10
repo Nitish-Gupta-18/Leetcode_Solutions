@@ -142,6 +142,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | Linked List, Two Pointers, Stack, Recursion | ✅ Accepted |<!-- id:palindrome-linked-list -->
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack, Bracket Sequences | ✅ Accepted |<!-- id:valid-parentheses -->
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | ✅ Accepted |<!-- id:maximum-subarray -->
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | Hash Table, Linked List, Two Pointers | ✅ Accepted |<!-- id:intersection-of-two-linked-lists -->
+
 
 
 
