@@ -173,6 +173,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:binary-tree-level-order-traversal -->
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor | ✅ Accepted |<!-- id:lowest-common-ancestor-of-a-binary-tree -->
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree | ✅ Accepted |<!-- id:serialize-and-deserialize-binary-tree -->
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:rotate-list -->
+
 
 
 
