@@ -41,6 +41,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:can-place-flowers -->
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | Math, String, Simulation | ✅ Accepted |<!-- id:fizz-buzz -->
 | 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | Easy | Math | ✅ Accepted |<!-- id:categorize-box-according-to-criteria -->
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array, Stack, Simulation | ✅ Accepted |<!-- id:baseball-game -->
+
 
 
 
