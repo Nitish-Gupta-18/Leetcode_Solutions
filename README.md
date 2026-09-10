@@ -113,6 +113,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:department-highest-salary -->
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | Database | ✅ Accepted |<!-- id:consecutive-numbers -->
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium | Database | ✅ Accepted |<!-- id:friend-requests-ii-who-has-the-most-friends -->
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
+
 
 
 
