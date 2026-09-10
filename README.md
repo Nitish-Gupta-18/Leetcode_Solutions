@@ -61,6 +61,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | ✅ Accepted |<!-- id:rising-temperature -->
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | Database | ✅ Accepted |<!-- id:customers-who-never-order -->
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | Database | ✅ Accepted |<!-- id:game-play-analysis-i -->
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | ✅ Accepted |<!-- id:employee-bonus -->
+
 
 
 
