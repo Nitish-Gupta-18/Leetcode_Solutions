@@ -46,6 +46,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy | Array, Hash Table, Counting | ✅ Accepted |<!-- id:count-number-of-pairs-with-absolute-difference-k -->
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | ✅ Accepted |<!-- id:climbing-stairs -->
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | Math | ✅ Accepted |<!-- id:ugly-number -->
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | Easy | Math | ✅ Accepted |<!-- id:construct-the-rectangle -->
+
 
 
 
