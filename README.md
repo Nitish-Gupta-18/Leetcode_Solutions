@@ -95,6 +95,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | ✅ Accepted |<!-- id:recyclable-and-low-fat-products -->
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:find-total-time-spent-by-each-employee -->
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:the-number-of-employees-which-report-to-each-employee -->
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | Database | ✅ Accepted |<!-- id:find-followers-count -->
+
 
 
 
