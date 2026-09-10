@@ -115,6 +115,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium | Database | ✅ Accepted |<!-- id:friend-requests-ii-who-has-the-most-friends -->
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | Database | ✅ Accepted |<!-- id:product-sales-analysis-iii -->
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | Database | ✅ Accepted |<!-- id:customers-who-bought-all-products -->
+
 
 
 
