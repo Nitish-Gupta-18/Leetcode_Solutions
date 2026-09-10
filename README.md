@@ -145,6 +145,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | Hash Table, Linked List, Two Pointers | ✅ Accepted |<!-- id:intersection-of-two-linked-lists -->
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Linked List | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-list -->
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:maximum-depth-of-binary-tree -->
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:same-tree -->
+
 
 
 
