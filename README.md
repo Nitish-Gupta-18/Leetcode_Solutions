@@ -109,6 +109,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:nth-highest-salary -->
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | Database | ✅ Accepted |<!-- id:investments-in-2016 -->
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | ✅ Accepted |<!-- id:game-play-analysis-iv -->
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | ✅ Accepted |<!-- id:managers-with-at-least-5-direct-reports -->
+
 
 
 
