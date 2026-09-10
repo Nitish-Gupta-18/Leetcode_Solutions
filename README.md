@@ -123,6 +123,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | Database | ✅ Accepted |<!-- id:restaurant-growth -->
 | 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | Medium | Database | ✅ Accepted |<!-- id:last-person-to-fit-in-the-bus -->
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | Database | ✅ Accepted |<!-- id:monthly-transactions-i -->
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | Database | ✅ Accepted |<!-- id:immediate-food-delivery-ii -->
+
 
 
 
