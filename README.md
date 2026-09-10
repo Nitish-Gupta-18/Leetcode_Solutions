@@ -162,6 +162,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | Medium | Array, Hash Table, Linked List | ✅ Accepted |<!-- id:linked-list-components -->
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort | ✅ Accepted |<!-- id:merge-k-sorted-lists -->
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array, Math, Two Pointers | ✅ Accepted |<!-- id:rotate-array -->
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Medium | Array, Math, Divide and Conquer | ✅ Accepted |<!-- id:beautiful-array -->
+
 
 
 
