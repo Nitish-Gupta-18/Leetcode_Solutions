@@ -74,6 +74,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | Database | ✅ Accepted |<!-- id:actors-and-directors-who-cooperated-at-least-three-times -->
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | ✅ Accepted |<!-- id:product-sales-analysis-i -->
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | Database | ✅ Accepted |<!-- id:project-employees-i -->
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | Easy | Database | ✅ Accepted |<!-- id:sales-analysis-iii -->
+
 
 
 
