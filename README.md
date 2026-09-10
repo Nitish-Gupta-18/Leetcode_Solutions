@@ -118,6 +118,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | Database | ✅ Accepted |<!-- id:customers-who-bought-all-products -->
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | Database | ✅ Accepted |<!-- id:exchange-seats -->
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | Database | ✅ Accepted |<!-- id:tree-node -->
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | Database | ✅ Accepted |<!-- id:capital-gainloss -->
+
 
 
 
