@@ -37,6 +37,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:island-perimeter -->
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:happy-number -->
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
+| 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | Array, Math | ✅ Accepted |<!-- id:find-if-digit-game-can-be-won -->
+
 
 
 
