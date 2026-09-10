@@ -166,6 +166,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | Array, Greedy | ✅ Accepted |<!-- id:patching-array -->
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Array, Greedy | ✅ Accepted |<!-- id:gas-station -->
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-stack-using-queues -->
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:rotting-oranges -->
+
 
 
 
