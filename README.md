@@ -126,6 +126,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | Database | ✅ Accepted |<!-- id:immediate-food-delivery-ii -->
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | Database | ✅ Accepted |<!-- id:product-price-at-a-given-date -->
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | Database | ✅ Accepted |<!-- id:human-traffic-of-stadium -->
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | Database | ✅ Accepted |<!-- id:trips-and-users -->
+
 
 
 
