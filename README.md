@@ -51,6 +51,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Easy | Math | ✅ Accepted |<!-- id:perfect-number -->
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | Array, Two Pointers, Bit Manipulation, Matrix, Simulation | ✅ Accepted |<!-- id:flipping-an-image -->
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:lemonade-change -->
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | Array, Hash Table, Graph Theory | ✅ Accepted |<!-- id:find-the-town-judge -->
+
 
 
 
