@@ -73,6 +73,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | Easy | Database | ✅ Accepted |<!-- id:swap-sex-of-employees -->
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | Database | ✅ Accepted |<!-- id:actors-and-directors-who-cooperated-at-least-three-times -->
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | Database | ✅ Accepted |<!-- id:product-sales-analysis-i -->
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | Database | ✅ Accepted |<!-- id:project-employees-i -->
+
 
 
 
