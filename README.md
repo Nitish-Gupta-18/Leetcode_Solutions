@@ -133,6 +133,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | ✅ Accepted |<!-- id:invalid-tweets -->
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:running-sum-of-1d-array -->
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | ✅ Accepted |<!-- id:valid-palindrome -->
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Hash Table, String, Sorting | ✅ Accepted |<!-- id:valid-anagram -->
+
 
 
 
