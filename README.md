@@ -80,6 +80,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | Database | ✅ Accepted |<!-- id:reformat-department-table -->
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | Database | ✅ Accepted |<!-- id:queries-quality-and-percentage -->
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | Database | ✅ Accepted |<!-- id:average-selling-price -->
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | Database | ✅ Accepted |<!-- id:students-and-examinations -->
+
 
 
 
