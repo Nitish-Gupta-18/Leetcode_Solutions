@@ -1,0 +1,18 @@
+class Solution {
+public:
+    vector<int> constructRectangle(int area) {
+        int widthStart = (int)sqrt(area);  // Start from square root of area
+        int width = 0;
+        int length = 0;
+
+        for (int i = widthStart; i >= 1; i--) {
+            if (area % i == 0) {
+                width = i;
+                length = area / i;
+                break;
+            }
+        }
+
+        return {length, width};
+    }
+};
