@@ -148,6 +148,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:same-tree -->
 | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | ✅ Accepted |<!-- id:design-twitter -->
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:merge-two-sorted-lists -->
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:remove-nth-node-from-end-of-list -->
+
 
 
 
