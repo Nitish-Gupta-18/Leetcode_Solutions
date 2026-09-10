@@ -146,6 +146,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | Linked List | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-list -->
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:maximum-depth-of-binary-tree -->
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:same-tree -->
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | ✅ Accepted |<!-- id:design-twitter -->
+
 
 
 
