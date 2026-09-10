@@ -104,6 +104,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:primary-department-for-each-employee -->
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:second-highest-salary -->
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | Database | ✅ Accepted |<!-- id:number-of-unique-subjects-taught-by-each-teacher -->
+
 
 
 
