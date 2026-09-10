@@ -89,6 +89,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | Database | ✅ Accepted |<!-- id:find-users-with-valid-e-mails -->
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | ✅ Accepted |<!-- id:customer-who-visited-but-did-not-make-any-transactions -->
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | Easy | Database | ✅ Accepted |<!-- id:bank-account-summary-ii -->
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | Database | ✅ Accepted |<!-- id:percentage-of-users-attended-a-contest -->
+
 
 
 
