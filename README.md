@@ -102,6 +102,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | Database | ✅ Accepted |<!-- id:calculate-special-bonus -->
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | Database | ✅ Accepted |<!-- id:rearrange-products-table -->
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:primary-department-for-each-employee -->
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
+
 
 
 
