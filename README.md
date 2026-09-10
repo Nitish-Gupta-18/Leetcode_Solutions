@@ -131,6 +131,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | Database | ✅ Accepted |<!-- id:confirmation-rate -->
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | Medium | Database | ✅ Accepted |<!-- id:count-salary-categories -->
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | ✅ Accepted |<!-- id:invalid-tweets -->
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:running-sum-of-1d-array -->
+
 
 
 
