@@ -151,6 +151,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:remove-nth-node-from-end-of-list -->
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | String, Stack | ✅ Accepted |<!-- id:remove-all-adjacent-duplicates-in-string -->
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | ✅ Accepted |<!-- id:sqrtx -->
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:symmetric-tree -->
+
 
 
 
