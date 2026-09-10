@@ -64,6 +64,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | ✅ Accepted |<!-- id:employee-bonus -->
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Database | ✅ Accepted |<!-- id:find-customer-referee -->
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | Database | ✅ Accepted |<!-- id:customer-placing-the-largest-number-of-orders -->
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Database | ✅ Accepted |<!-- id:big-countries -->
+
 
 
 
