@@ -30,6 +30,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | String, Simulation | ✅ Accepted |<!-- id:robot-return-to-origin -->
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Array | ✅ Accepted |<!-- id:kids-with-the-greatest-number-of-candies -->
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Array, Matrix | ✅ Accepted |<!-- id:richest-customer-wealth -->
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Easy | Array | ✅ Accepted |<!-- id:number-of-students-doing-homework-at-a-given-time -->
+
 
 
 
