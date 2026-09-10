@@ -38,6 +38,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:happy-number -->
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | Array, Math | ✅ Accepted |<!-- id:find-if-digit-game-can-be-won -->
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:can-place-flowers -->
+
 
 
 
