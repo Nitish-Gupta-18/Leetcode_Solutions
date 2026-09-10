@@ -54,6 +54,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | Array, Hash Table, Graph Theory | ✅ Accepted |<!-- id:find-the-town-judge -->
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | Array, Binary Search, Segment Tree, Simulation, Ordered Set | ✅ Accepted |<!-- id:fruits-into-baskets-ii -->
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | String, Dynamic Programming, Stack, Bracket Sequences | ✅ Accepted |<!-- id:longest-valid-parentheses -->
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | Database | ✅ Accepted |<!-- id:combine-two-tables -->
+
 
 
 
