@@ -159,6 +159,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | ✅ Accepted |<!-- id:next-greater-element-i -->
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | ✅ Accepted |<!-- id:daily-temperatures -->
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | Array, Queue, Simulation | ✅ Accepted |<!-- id:time-needed-to-buy-tickets -->
+| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | Medium | Array, Hash Table, Linked List | ✅ Accepted |<!-- id:linked-list-components -->
+
 
 
 
