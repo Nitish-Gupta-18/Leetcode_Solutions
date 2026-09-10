@@ -58,6 +58,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | Database | ✅ Accepted |<!-- id:employees-earning-more-than-their-managers -->
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:duplicate-emails -->
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:delete-duplicate-emails -->
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | ✅ Accepted |<!-- id:rising-temperature -->
+
 
 
 
