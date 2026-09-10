@@ -155,6 +155,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:univalued-binary-tree -->
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Tree, Depth-First Search, Binary Tree | ✅ Accepted |<!-- id:balanced-binary-tree -->
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle -->
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Stack, Design, Monotonic Stack, Data Stream | ✅ Accepted |<!-- id:online-stock-span -->
+
 
 
 
