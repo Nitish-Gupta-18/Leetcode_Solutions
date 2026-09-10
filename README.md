@@ -157,6 +157,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle -->
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Stack, Design, Monotonic Stack, Data Stream | ✅ Accepted |<!-- id:online-stock-span -->
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | ✅ Accepted |<!-- id:next-greater-element-i -->
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | ✅ Accepted |<!-- id:daily-temperatures -->
+
 
 
 
