@@ -47,6 +47,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | ✅ Accepted |<!-- id:climbing-stairs -->
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Easy | Math | ✅ Accepted |<!-- id:ugly-number -->
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | Easy | Math | ✅ Accepted |<!-- id:construct-the-rectangle -->
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | Math, String | ✅ Accepted |<!-- id:base-7 -->
+
 
 
 
