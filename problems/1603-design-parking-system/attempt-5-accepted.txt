@@ -1,0 +1,35 @@
+class ParkingSystem {
+public:
+    int bigSpots;
+    int mediumSpots;
+    int smallSpots;
+
+public:
+    // Constructor to initialize parking spots
+    ParkingSystem(int big, int medium, int small) {
+        bigSpots = big;
+        mediumSpots = medium;
+        smallSpots = small;
+    }
+
+    // Function to add a car of the given type
+    bool addCar(int carType) {
+        if (carType == 1) { // Big car
+            if (bigSpots > 0) {
+                bigSpots--;
+                return true;
+            }
+        } else if (carType == 2) { // Medium car
+            if (mediumSpots > 0) {
+                mediumSpots--;
+                return true;
+            }
+        } else if (carType == 3) { // Small car
+            if (smallSpots > 0) {
+                smallSpots--;
+                return true;
+            }
+        }
+        return false; // No space available
+    }
+};
