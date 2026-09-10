@@ -81,6 +81,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | Database | ✅ Accepted |<!-- id:queries-quality-and-percentage -->
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | Database | ✅ Accepted |<!-- id:average-selling-price -->
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | Database | ✅ Accepted |<!-- id:students-and-examinations -->
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | Database | ✅ Accepted |<!-- id:list-the-products-ordered-in-a-period -->
+
 
 
 
