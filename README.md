@@ -17,6 +17,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-element -->
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | Array, Math | ✅ Accepted |<!-- id:plus-one -->
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-array -->
+
 
 
 
