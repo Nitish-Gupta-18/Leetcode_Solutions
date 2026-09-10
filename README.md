@@ -87,6 +87,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | Database | ✅ Accepted |<!-- id:group-sold-products-by-the-date -->
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | ✅ Accepted |<!-- id:patients-with-a-condition -->
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | Database | ✅ Accepted |<!-- id:find-users-with-valid-e-mails -->
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | ✅ Accepted |<!-- id:customer-who-visited-but-did-not-make-any-transactions -->
+
 
 
 
