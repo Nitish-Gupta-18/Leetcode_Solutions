@@ -138,6 +138,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | ✅ Accepted |<!-- id:min-stack -->
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-queue-using-stacks -->
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-linked-list -->
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List, Two Pointers | ✅ Accepted |<!-- id:middle-of-the-linked-list -->
+
 
 
 
