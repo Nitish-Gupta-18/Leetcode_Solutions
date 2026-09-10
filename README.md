@@ -178,6 +178,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Linked List, Two Pointers, Stack, Recursion | ✅ Accepted |<!-- id:reorder-list -->
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:find-the-highest-altitude -->
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:odd-even-linked-list -->
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:delete-the-middle-node-of-a-linked-list -->
+
 
 
 
