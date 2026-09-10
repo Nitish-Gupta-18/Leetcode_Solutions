@@ -1,0 +1,44 @@
+class Solution {
+public:
+    int calPoints(vector<string>& operations) {
+        int scores[1000]; // Store valid scores
+        int index = 0;    // Track position in scores array
+
+        for (int i = 0; i < operations.size(); i++) {
+            string s = operations[i];
+
+            if (s == "C") {
+                index--; // Remove last score
+            } 
+            else if (s == "D") {
+                scores[index] = 2 * scores[index - 1];
+                index++;
+            } 
+            else if (s == "+") {
+                scores[index] = scores[index - 1] + scores[index - 2];
+                index++;
+            } 
+            else {
+                // Manual string to int
+                int num = 0, sign = 1, j = 0;
+                if (s[0] == '-') {
+                    sign = -1;
+                    j = 1;
+                }
+                while (j < s.length()) {
+                    num = num * 10 + (s[j] - '0');
+                    j++;
+                }
+                scores[index] = num * sign;
+                index++;
+            }
+        }
+
+        int sum = 0;
+        for (int i = 0; i < index; i++) {
+            sum += scores[i];
+        }
+
+        return sum;
+    }
+};
