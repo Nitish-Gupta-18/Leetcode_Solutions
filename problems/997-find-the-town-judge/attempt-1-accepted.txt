@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int findJudge(int N, vector<vector<int>>& trust) {
+        vector<int> trustCount(N + 1, 0); // person 1 to N
+
+        for (int i = 0; i < trust.size(); i++) {
+            int a = trust[i][0];
+            int b = trust[i][1];
+            trustCount[a]--; // a trusts someone
+            trustCount[b]++; // b is trusted by someone
+        }
+
+        for (int i = 1; i <= N; i++) {
+            if (trustCount[i] == N - 1) {
+                return i; // found the judge
+            }
+        }
+
+        return -1; // no judge found
+    }
+};
