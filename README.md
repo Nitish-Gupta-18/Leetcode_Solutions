@@ -169,6 +169,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:rotting-oranges -->
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | Array, Dynamic Programming, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:01-matrix -->
 | 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | Hard | Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix, Heuristic Search, Bidirectional Search, A* Search | ✅ Accepted |<!-- id:sliding-puzzle -->
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:invert-binary-tree -->
+
 
 
 
