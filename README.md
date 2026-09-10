@@ -82,6 +82,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | Database | ✅ Accepted |<!-- id:average-selling-price -->
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | Database | ✅ Accepted |<!-- id:students-and-examinations -->
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | Database | ✅ Accepted |<!-- id:list-the-products-ordered-in-a-period -->
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | Database | ✅ Accepted |<!-- id:replace-employee-id-with-the-unique-identifier -->
+
 
 
 
