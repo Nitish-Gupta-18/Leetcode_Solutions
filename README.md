@@ -50,6 +50,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Easy | Math, String | ✅ Accepted |<!-- id:base-7 -->
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Easy | Math | ✅ Accepted |<!-- id:perfect-number -->
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | Array, Two Pointers, Bit Manipulation, Matrix, Simulation | ✅ Accepted |<!-- id:flipping-an-image -->
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:lemonade-change -->
+
 
 
 
